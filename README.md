@@ -1,2 +1,2 @@
 # app-dev
-here arecodes of my app
+here are codes of my app
