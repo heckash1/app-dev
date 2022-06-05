@@ -1,2 +1,3 @@
 # app-dev
 here are codes of my app
+all the relevant codes are in app>src ...
